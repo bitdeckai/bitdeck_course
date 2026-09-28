@@ -1,0 +1,4 @@
+html { background: #f2f1eb; }
+body { margin: 0; min-width: 320px; min-height: 100vh; font-family: 'Noto Sans SC', 'Microsoft YaHei', sans-serif; }
+button:focus-visible, input:focus-visible { outline: 2px solid #147d84; outline-offset: 2px; }
+::selection { color: white; background: #147d84; }
